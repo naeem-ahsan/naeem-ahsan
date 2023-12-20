@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Naeem Ahsan 👋
 
-<!--
-**naeem-ahsan/naeem-ahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional Web Developer with expertise in Front-End, CSS, JS, Shopify, WooCommerce, Laravel, MySQL. I'm also passionate about using WebApp Builder to build robust and scalable web applications.
 
-Here are some ideas to get you started:
+#### 🌟 What I do:
+- 💻 Smooth, minimalistic yet purposeful responsive Front-End.
+- 🚀 Building dynamic web applications using Laravel.
+- 🛒 Enhancing e-commerce experiences with Shopify and WooCommerce.
+- 📊 MySQL for efficient data management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📜 My Tech Toolbox:
+- 🌟 HTML5, SCSS, Bootstrap CSS, Tailwind CSS, Materialize CSS, JS, jQuery, Vue JS, JSON
+- 🌐 Laravel
+- 🗄️ MySQL
+- 🛍️ Shopify & WooCommerce
+- 🚀 Drupal, cPanel, Sanity, Git, GitHub, Jira, Freshdesk, Trello, Notion
+
+#### 🌐 Connect with Me:
+- 📧 Email: naeem30kbw@gmail.com
+- 💼 LinkedIn: [/in/naeem](https://www.linkedin.com/in/naeem10ahsan)
