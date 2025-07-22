@@ -1,6 +1,6 @@
 ### Howdy, I'm Naeem Ahsan 👋
 
-I'm a professional Web Developer with expertise in Front-End, CSS, JS, Shopify, WooCommerce, Laravel, MySQL. I'm also passionate about using WebApp Builder to build robust and scalable web applications.
+I'm a professional Web Developer with expertise in Front-End, CSS, JS, Shopify, WooCommerce, PHP, MySQL. I'm also passionate about using WebApp Builder to build robust and scalable web applications.
 
 #### 🌟 What I do:
 - 💻 Smooth, minimalistic yet purposeful responsive Front-End.
